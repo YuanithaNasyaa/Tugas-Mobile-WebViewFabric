@@ -107,7 +107,7 @@ ini screenshot untuk tugas sesi#2
 
 <img width="547" height="316" alt="image" src="https://github.com/user-attachments/assets/3e206cda-12b7-40b1-b354-99703a39281c" />
 
-ini screenshoot untuk tugas sesi#3 (error tersebut tidak disebabkan oleh applikasi melainkan terjadi karena error pada web yang ditautkan pada waktu pengambilan gambar).
+ini screenshoot untuk tugas sesi#3 
 
 # kesimpulan
 kedua apk ini memiliki fitur dan kegunaan yang sama yang membedakan adalah cara pembuatan yang satu menggunakan MIT dan yang satu Menggunakan React js tujuan repository ini adalah sebagai sarana belajar bagi kita dalam pemerograman mobile
