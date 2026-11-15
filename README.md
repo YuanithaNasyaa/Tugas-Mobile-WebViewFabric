@@ -103,8 +103,9 @@ dan sisa nya itu Source code Tugas Sesi#3 hasil dari tugas sesi#3 bernama app-re
 
 <img width="1080" height="2408" alt="706764433-bc01e0dc-d9f8-4b43-af6a-a13700fd4157" src="https://github.com/user-attachments/assets/dec9e1a7-66d3-4bd7-a8db-6fb1fcd607d8" />
 ini screenshot untuk tugas sesi#2
-<img width="550" height="317" alt="image" src="https://github.com/user-attachments/assets/7b8e6a9c-a125-458c-8b49-58664769b3b1" />
+
 <img width="547" height="316" alt="image" src="https://github.com/user-attachments/assets/3e206cda-12b7-40b1-b354-99703a39281c" />
+
 ini screenshoot untuk tugas sesi#3 (error tersebut tidak disebabkan oleh applikasi melainkan terjadi karena error pada web yang ditautkan pada waktu pengambilan gambar).
 
 # kesimpulan
