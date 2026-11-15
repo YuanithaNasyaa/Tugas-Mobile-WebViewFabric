@@ -102,6 +102,8 @@ dan sisa nya itu Source code Tugas Sesi#3 hasil dari tugas sesi#3 bernama app-re
 # ScreenShoot Applikasi
 
 ini screenshot untuk tugas sesi#2
+<img width="550" height="317" alt="image" src="https://github.com/user-attachments/assets/7b8e6a9c-a125-458c-8b49-58664769b3b1" />
+<img width="547" height="316" alt="image" src="https://github.com/user-attachments/assets/3e206cda-12b7-40b1-b354-99703a39281c" />
 
 ini screenshoot untuk tugas sesi#3 (error tersebut tidak disebabkan oleh applikasi melainkan terjadi karena error pada web yang ditautkan pada waktu pengambilan gambar).
 
